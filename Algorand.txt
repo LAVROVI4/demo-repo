@@ -3,3 +3,7 @@ The idea for Algorand was born in 2017 in Cambridge, Massachusetts, when a small
 Over the following two years, Micali and his team worked tirelessly to achieve a breakthrough: a Pure Proof-of-Stake consensus mechanism. Leveraging cryptographic sortition and verifiable random functions, PPoS obscures attack vectors, democratizes participation, and does not fork. Its core functions are also computationally lightweight, ensuring the network can achieve true scalability. With these innovations architected, Algorand was born in 2019, a blockchain that is at once technologically refined and immensely powerful, making possible a whole new world of pioneering applications.
 
 Today, Algorand is more than just elegant engineering; it's a flourishing ecosystem where cutting-edge solutions are developed with the potential to redefine industries and spark global transformation. Reimagining real estate investing through fractional ownership, transforming airline ticket distribution with easily transferable digital tokens, bringing fast financial aid to regions with unstable banking systems, and introducing unprecedented transparency to supply chains—these are just a few examples of businesses being built with Algorand technology.
+
+
+Initially the leading DeFi protocol on Algorand, Folks has evolved into a dynamic, multichain DeFi hub, leveraging messaging layers technology for expansive growth. With its innovative hub-and-spoke model, the platform offers a seamless, intuitive user experience, abstracting the complexities of cross-chain interactions.
+
